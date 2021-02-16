@@ -1,0 +1,13 @@
+﻿  acgmodel.cpp
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\auxiliary.h(39): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\acgmodel.cpp(63): warning C4244: “初始化”: 从“Float”转换到“float”，可能丢失数据
+  auxiliary.cpp
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\auxiliary.h(39): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  testacg.cpp
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\auxiliary.h(39): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 331 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  autocorrelogram.vcxproj -> D:\Desktop\work\forrong\acg_src\autocorrelogram\x64Release\autocorrelogram\Output\autocorrelogram.exe
+  D:\Desktop\work\forrong\acg_src\autocorrelogram\x64Release\autocorrelogram\Output\autocorrelogram.exe
+  复制了 1 个文件

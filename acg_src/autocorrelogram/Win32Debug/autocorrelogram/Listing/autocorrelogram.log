@@ -1,0 +1,14 @@
+﻿  acgmodel.cpp
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\acgmodel.cpp(63): warning C4244: “初始化”: 从“Float”转换到“float”，可能丢失数据
+  auxiliary.cpp
+  testacg.cpp
+  正在生成代码...
+acgmodel.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_execute，该符号在函数 "public: void __thiscall AcgModel::compute(class std::vector<double,class std::allocator<double> > const &,int)" (?compute@AcgModel@@QAEXABV?$vector@NV?$allocator@N@std@@@std@@H@Z) 中被引用
+acgmodel.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_plan_r2r_1d，该符号在函数 "public: void __thiscall AcgModel::compute(class std::vector<double,class std::allocator<double> > const &,int)" (?compute@AcgModel@@QAEXABV?$vector@NV?$allocator@N@std@@@std@@H@Z) 中被引用
+acgmodel.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_destroy_plan，该符号在函数 "public: void __thiscall AcgModel::compute(class std::vector<double,class std::allocator<double> > const &,int)" (?compute@AcgModel@@QAEXABV?$vector@NV?$allocator@N@std@@@std@@H@Z) 中被引用
+acgmodel.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_malloc，该符号在函数 "public: void __thiscall AcgModel::compute(class std::vector<double,class std::allocator<double> > const &,int)" (?compute@AcgModel@@QAEXABV?$vector@NV?$allocator@N@std@@@std@@H@Z) 中被引用
+acgmodel.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_free，该符号在函数 "public: void __thiscall AcgModel::compute(class std::vector<double,class std::allocator<double> > const &,int)" (?compute@AcgModel@@QAEXABV?$vector@NV?$allocator@N@std@@@std@@H@Z) 中被引用
+D:\Documents\lib\opencv\build\x64\vc14\lib\opencv_world343d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Documents\lib\opencv\build\x64\vc14\lib\opencv_world343.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+libfftw3-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Desktop\work\forrong\acg_src\autocorrelogram\Win32Debug\autocorrelogram\Output\autocorrelogram.exe : fatal error LNK1120: 5 个无法解析的外部命令

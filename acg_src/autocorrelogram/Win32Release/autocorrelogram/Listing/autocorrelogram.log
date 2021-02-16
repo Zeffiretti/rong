@@ -1,0 +1,10 @@
+﻿  acgmodel.cpp
+d:\desktop\work\forrong\acg_src\autocorrelogram\autocorrelogram\acgmodel.cpp(63): warning C4244: “初始化”: 从“Float”转换到“float”，可能丢失数据
+  auxiliary.cpp
+  testacg.cpp
+acgmodel.obj : error LNK2001: 无法解析的外部符号 __imp__fftw_malloc
+acgmodel.obj : error LNK2001: 无法解析的外部符号 __imp__fftw_destroy_plan
+acgmodel.obj : error LNK2001: 无法解析的外部符号 __imp__fftw_plan_r2r_1d
+acgmodel.obj : error LNK2001: 无法解析的外部符号 __imp__fftw_execute
+acgmodel.obj : error LNK2001: 无法解析的外部符号 __imp__fftw_free
+D:\Desktop\work\forrong\acg_src\autocorrelogram\Win32Release\autocorrelogram\Output\autocorrelogram.exe : fatal error LNK1120: 5 个无法解析的外部命令
